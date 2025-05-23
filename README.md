@@ -17,9 +17,9 @@ PyDLE is a Python-based code editor and environment designed to make writing and
 - Initial Launch
 
 ### v1.1
-- Now F5 and Ctrl + R for running instead of only Ctrl + R.
-- Now Run Button, F5 and Ctrl + R added to Coding.
-- Now click Tab for indentation
+- New F5 and Ctrl + R for running instead of only Ctrl + R.
+- New Run Button, F5 and Ctrl + R added to Coding.
+- New click Tab for indentation
 ## Installation
 
 To run PyDLE, you need to have Python installed on your system.
