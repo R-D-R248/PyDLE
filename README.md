@@ -1,5 +1,5 @@
 
-# PyDLE - Python Development and Learning Environment V1.1
+# PyDLE - Python Development and Learning Environment V1.2
 
 PyDLE is a Python-based code editor and environment designed to make writing and running Python scripts easy and accessible. It supports package installation, script creation, and more.
 
@@ -20,6 +20,10 @@ PyDLE is a Python-based code editor and environment designed to make writing and
 - New F5 and Ctrl + R for running instead of only Ctrl + R.
 - New Run Button, F5 and Ctrl + R added to Coding Area.
 - New click Tab for indentation
+
+### v1.2
+-Changed Logo
+
 ## Installation
 
 To run PyDLE, you need to have Python installed on your system.
